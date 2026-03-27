@@ -78,6 +78,9 @@ colors.get_colors = function()
             vsaBrown = '#bd63c5',
             vsaOrange = '#ff8000',
             vsaLightGreen = '#b8d7a3',
+
+            customRed = '#D84C43',
+            customPink = '#FF80C0'
         }
     else
         mycolors = {
@@ -147,6 +150,10 @@ colors.get_colors = function()
             vscYellowOrange = '#800000',
             vscYellow = '#795E26',
             vscPink = '#AF00DB',
+
+            customRed = '#D84C43',
+            customPink = '#FF80C0',
+            customMacro = '#BD63C5'
         }
     end
 
